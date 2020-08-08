@@ -1,0 +1,43 @@
+
+
+body{
+	background-image: url("https://cdn.wallpapersafari.com/19/32/Om6cL7.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat:repeat;
+  border:6px solid yellow;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1{
+	color: white;
+  background-color: black;
+  border:4px solid orange;
+  text-align:center;
+}
+
+h2{
+	color: yellow;
+  background-color: black;
+  border:4px solid orange;
+  text-align:center;
+}
+
+h3{
+	color: white;
+  background-color: black;
+  border:4px solid orange;
+  text-align:center;
+}
+p{
+  color:white;
+ 
+ 
+  text-align:center;
+}
